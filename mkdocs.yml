@@ -1,0 +1,22 @@
+site_name: PERSONAL PAGE DAVID CREUS
+theme:
+  feature:
+    tabs: true
+  logo:
+    icon: "\uE80C"
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  language: 'en'
+  name: null
+  custom_dir: material
+
+nav:
+  - Instalación mkdocs: index.md
+  # Añadir pestañas en el frontal de arriba. (para proyectos grandes)
+  # - Getting started: getting-started.md
+  # - Extensions:
+  #   - Admonition: extensions/admonition.md
